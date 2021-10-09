@@ -1,0 +1,7 @@
+﻿  Board.cpp
+  main.cpp
+  Ship.cpp
+  Application.cpp
+  Generowanie kodu...
+C:\Users\User\source\repos\Battleship\Battleship\Board.cpp(81): warning C4715: "Battleships::Board::check”: niewszystkie ścieżki kodu zwracają wartość
+  Battleship.vcxproj -> C:\Users\User\source\repos\Battleship\Debug\Battleship.exe
